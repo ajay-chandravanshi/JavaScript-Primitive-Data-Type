@@ -1,0 +1,2 @@
+let bigNum = BigInt("123422222222222222222222222222222222222")
+console.log(bigNum)
